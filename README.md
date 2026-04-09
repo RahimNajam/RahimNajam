@@ -11,7 +11,16 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🌐 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahimstar619@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahimnajam) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://rahimshaikh.netlify.app/)
+
+---
+
+
+# 🛠 Tech Stack
 
 <a href="#"><img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
@@ -33,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-![Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahimNajam&show_icons=true&theme=radical&hide_border=true)
+![Rahim's GitHub Stats](https://RahimNajam-github-readme-stats.vercel.app/api?username=RahimNajam&show_icons=true&theme=midnight-purple)
 
 ---
 
@@ -41,10 +50,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RahimNajam&theme=radical)
 
----
 
-## 🌐 Connect With Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahimstar619@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahimnajam) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://rahimshaikh.netlify.app/)
