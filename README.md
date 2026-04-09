@@ -1,9 +1,13 @@
 # 💫 About Me
 
 - 🌱 I’m currently learning **𝗪𝗲𝗯 𝗗𝗲𝘃elopment & 𝗔𝗜**
+
 - 🔭 I’m currently working on **𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀**
+
 - 💬 Ask me about **𝗪𝗲𝗯 𝗗𝗲𝘃, 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 & 𝗔𝗜**
+
 - 👨‍💻 Looking forward to collaborating on **𝗪𝗲𝗯 𝗗𝗲𝘃 & 𝗔𝗜 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀**
+
 
 ---
 
@@ -41,6 +45,6 @@
 
 ## 🌐 Connect With Me
 
-<a href="mailto: rahimstar619@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>  
-🔗 LinkedIn: [YOUR LINK](www.linkedin.com/in/rahimnajam)
-💼 Portfolio: [YOUR LINK](https://rahimshaikh.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahimstar619@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahimnajam) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://rahimshaikh.netlify.app/)
